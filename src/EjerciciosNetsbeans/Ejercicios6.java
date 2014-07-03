@@ -5,26 +5,21 @@
  */
 
 package EjerciciosNetsbeans;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import javax.swing.JOptionPane;
 
 /**
  *
  * @author: Cinthya Salvatierra
  */
 public class Ejercicios6 {
-    public Ejercicios6(){
-        super();
-    }
-        
-        
 public static void main(String[] args) throws IOException {
     
       BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 
-      System.out.println("Ingrese uns frase : ");
+      System.out.printf("Ingrese uns frase : ");
       String frase=br.readLine();
       String []cads=frase.split(" ");
 
