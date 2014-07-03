@@ -12,7 +12,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author:ariel Mero
+ * @author: Cinthya Salvatierra
  */
 public class Ejercicios6 {
     public Ejercicios6(){
