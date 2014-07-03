@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author CinthyaSalvatierra
+ * @author :Cinthya  Salvatierra
  */
 public class Ejercicios1 {
     
