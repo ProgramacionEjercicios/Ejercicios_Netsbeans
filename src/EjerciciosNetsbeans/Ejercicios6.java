@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author: Cinthya Salvatierra
+ * Author: Cinthya Salvatierra
  */
 public class Ejercicios6 {
 public static void main(String[] args) throws IOException {
