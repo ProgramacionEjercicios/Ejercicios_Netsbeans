@@ -11,7 +11,7 @@ import javax.swing.JTextArea;
 
 /**
  *
- * @author: Cinthya Salvatierra
+ * @author: Cinthya Salvatierra Carranza
  */
 public class Ejercicios11 {
     public static void main(String[] args) {
