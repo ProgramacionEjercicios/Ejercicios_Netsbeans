@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * Author:Cinthya Salvatierra Carranza 
+ * Author:Cinthya Salvatierra
  */
 public class Ejercicios6 {
 public static void main(String[] args) throws IOException {
@@ -19,8 +19,8 @@ public static void main(String[] args) throws IOException {
       BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 
       System.out.printf("Ingrese uns frase : ");
-      String frase=br.readLine();
-      String []cads=frase.split(" ");
+      String frases=br.readLine();
+      String []cads=frases.split(" ");
 
       for(int i=cads.length-1;i>=0;i--){
           System.out.print(cads[i]+" ");
